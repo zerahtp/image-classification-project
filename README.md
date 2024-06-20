@@ -42,6 +42,4 @@ Projeyi çalıştırmak için şu adımları izleyin:
 2. Gerekli paketleri yükleyin: `pip install -r requirements.txt`
 3. `.ipynb` dosyasını çalıştırın ve adımları izleyin.
 
-## Lisans
-Bu proje MIT lisansı altında lisanslanmıştır.
 
