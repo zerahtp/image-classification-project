@@ -24,11 +24,10 @@ Bu proje, Fashion MNIST veri setini kullanarak çeşitli makine öğrenmesi ve d
 4. ROC Eğrileri ve AUC Değerleri
 
 ## Sonuçlar
-- **KNN**: Accuracy: X.XX, Precision: X.XX, Recall: X.XX, F1-Score: X.XX, AUC: X.XX
+- **KNN**: Accuracy:0.8541, Precision:0.8575414622679564, Recall: 0.8541000000000001, F1-Score: 0.8539002124666112, AUC: 0.9583711777777777
 - **SVM**: Accuracy: X.XX, Precision: X.XX, Recall: X.XX, F1-Score: X.XX, AUC: X.XX
-- **Logistic Regression**: Accuracy: X.XX, Precision: X.XX, Recall: X.XX, F1-Score: X.XX, AUC: X.XX
-- **CNN**: Accuracy: X.XX, Precision: X.XX, Recall: X.XX, F1-Score: X.XX, AUC: X.XX
-- **YSA**: Accuracy: X.XX, Precision: X.XX, Recall: X.XX, F1-Score: X.XX, AUC: X.XX
+- **CNN**: Accuracy:0.8887, Precision:0.8927753314544937, Recall: 0.8887, F1-Score: 0.8895589198148308, AUC: 0.9913532777777778
+- **YSA**: Accuracy: 0.8802, Precision: 0.8823485494456168, Recall:0.8802, F1-Score:0.8809825778250031, AUC:  0.9904487222222222
 
 ## Kullanılan Araçlar
 - Python
